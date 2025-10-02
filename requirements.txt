@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+lxml
+pandas
+feedparser
+tqdm
+nltk
+sumy
+rouge-score
+bert-score
